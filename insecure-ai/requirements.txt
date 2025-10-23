@@ -1,5 +1,5 @@
 flask==3.0.2
-latio==1.2.5
+latio==1.2.7
 python-magic==0.4.27
 Werkzeug==3.0.1 
 markdown==3.5.2
